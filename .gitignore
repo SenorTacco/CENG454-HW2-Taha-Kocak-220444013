@@ -1,0 +1,58 @@
+# ========================
+# Unity Generated Files
+# ========================
+
+# Unity auto-generated folders – never commit
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# ========================
+# IDE / Editor Files
+# ========================
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ========================
+# OS Junk Files
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ========================
+# Unity Asset Store Tools
+# ========================
+/[Aa]ssets/AssetStoreTools*
+
+# ========================
+# Crash Reports
+# ========================
+sysinfo.txt
+crashlytics-build.properties
+
+# ========================
+# Misc
+# ========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+extract.txt
